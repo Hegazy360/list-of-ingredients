@@ -1,24 +1,7 @@
-# README
+# ReactJS + Ruby on Rails API + Heroku App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Proof of concept CRUD App using Ruby on Rails as an API, ReactJS as the client and Heroku for deployment
 
-Things you may want to cover:
+App was also modified to make sure ActiveRecord is functioning 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://obscure-everglades-19898.herokuapp.com/
